@@ -10,3 +10,6 @@ django-admin startproject core
 ```bash
 cd core
 ```
+
+### References
+[goit-web-django-hw](https://github.com/diixo/goit-web-django-hw)
